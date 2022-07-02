@@ -9,5 +9,16 @@
 2022-07-02 20:32:23.149  INFO 47388 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
 2022-07-02 20:32:23.514  INFO 47388 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
 2022-07-02 20:32:23.521  INFO 47388 --- [main] com.young.xshop.XshopApplication         : Started XshopApplication in 2.313 seconds (JVM running for 3.983)
-2022-07-02 20:53:17.103  INFO 47388 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
-2022-07-02 20:53:17.104  INFO 47388 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-07-02 21:13:12.285  INFO 18392 --- [main] com.young.xshop.XshopApplication         : Starting XshopApplication using Java 1.8.0_301 on LAPTOP-NHN4BK96 with PID 18392 (D:\project\wxshopback\xshop\target\classes started by 17631 in D:\project\wxshopback\xshop)
+2022-07-02 21:13:12.287  INFO 18392 --- [main] com.young.xshop.XshopApplication         : No active profile set, falling back to 1 default profile: "default"
+2022-07-02 21:13:13.078  INFO 18392 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2022-07-02 21:13:13.086  INFO 18392 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-07-02 21:13:13.086  INFO 18392 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-07-02 21:13:13.226  INFO 18392 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-07-02 21:13:13.226  INFO 18392 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 901 ms
+2022-07-02 21:13:13.456  INFO 18392 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-07-02 21:13:13.542  INFO 18392 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-07-02 21:13:13.909  INFO 18392 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2022-07-02 21:13:13.916  INFO 18392 --- [main] com.young.xshop.XshopApplication         : Started XshopApplication in 2.033 seconds (JVM running for 3.35)
+2022-07-02 21:14:58.360  INFO 18392 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-07-02 21:14:58.361  INFO 18392 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
